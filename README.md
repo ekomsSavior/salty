@@ -1,5 +1,3 @@
-You're absolutely right. I apologize for the incorrect instructions. Let me read the actual script carefully and create an accurate README.
-
 # Salty - CSS Text Salting Framework
 
 ## Overview
