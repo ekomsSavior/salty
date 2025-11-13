@@ -33,6 +33,33 @@ python3 salty.py
 
 ### Menu Options
 
+```
+┌──(ek0ms㉿kali)-[~/salty]
+└─$ sudo python3 salty.py                                                                                                                 
+
+    ▄████████    ▄████████  ▄█           ███     ▄██   ▄   
+  ███    ███   ███    ███ ███       ▀█████████▄ ███   ██▄ 
+  ███    █▀    ███    ███ ███          ▀███▀▀██ ███▄▄▄███ 
+  ███          ███    ███ ███           ███   ▀ ▀▀▀▀▀▀███ 
+▀███████████ ▀███████████ ███           ███     ▄██   ███ 
+         ███   ███    ███ ███           ███     ███   ███ 
+   ▄█    ███   ███    ███ ███▌    ▄     ███     ███   ███ 
+ ▄████████▀    ███    █▀  █████▄▄██    ▄████▀    ▀█████▀  
+        
+
+==================================================
+ PHANTOMCSS - CSS Text Salting Framework
+==================================================
+1.  Create JavaScript Payload
+2.  Generate Salted Email/Document
+3.   Preview Detection Evasion
+4.  Save Payload
+5.  Load Payload
+6.   Show Created Payloads
+7.  Test Delivery Methods
+0.  Exit
+```
+
 1. **Create JavaScript Payload** - Build a new payload with the following types:
    - JS Redirect: Redirects to a specified URL after a delay
    - Data Exfiltration: Steals cookies, user agent, forms, and links
