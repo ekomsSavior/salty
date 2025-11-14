@@ -4,6 +4,8 @@
 
 Salty is an interactive framework for hiding JavaScript payloads within seemingly innocent text using CSS obfuscation techniques. The tool creates HTML documents where malicious JavaScript is concealed using various CSS hiding methods, making detection difficult for security scanners.
 
+![image0(8)](https://github.com/user-attachments/assets/9bb0ff76-bf7d-4b2f-a6ec-790f97a1ec46)
+
 ## Features
 
 - 6 CSS evasion techniques for hiding text
